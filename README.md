@@ -1,1 +1,0 @@
-# jenkins-integrate-sample-helloworld
